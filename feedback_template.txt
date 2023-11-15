@@ -1,0 +1,27 @@
+## Manual Inspection (2 marks)
+
+- Pylint Score:                 x.x / 1.0
+- Readability & comments:       x.x / 1.0
+
+Please review inline comments.
+
+Total: x.x / 2.0
+
+## Self-testing (3 marks)
+
+- No tested at all:             - x.xx
+
+or
+
+- Test coverage deduction:       - x.xx
+- Functionality tests deduction: - x.xx
+  (brief description of any functionality test deductions goes here)
+
+Total: x.x / 3.0
+
+## Breaking Restrictions (4 marks deducted)
+
+Presence and usage of forbidden libraries or methods:
+N/A
+
+Total manual marks: x.x / 5.0
