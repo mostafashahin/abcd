@@ -1,6 +1,6 @@
 i=`cat -`
 result=`echo "scale=3; $i/10" | bc`
-#echo $result
+echo $result
 
 comp1=`echo "$result < 0.125" | bc -l`
 comp2=`echo "$result < 0.375" | bc -l`
